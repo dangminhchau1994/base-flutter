@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common Color-->
+    <color name="blue">#2CB8D4</color>
+    <color name="blue_100">#E7F1FF</color>
+    <color name="blue_200">#9EC5FE</color>
+    <color name="blue_300">#6EA8FE</color>
+    <color name="blue_400">#3D8BFD</color>
+    <color name="blue_500">#0D6EFD</color>
+    <color name="blue_600">#0D6EFD</color>
+    <color name="blue_700">#084298</color>
+    <color name="blue_800">#052C65</color>
+    <color name="blue_900">#031633</color>
+    <color name="blue_950">#1C88EE</color>
+</resources>
